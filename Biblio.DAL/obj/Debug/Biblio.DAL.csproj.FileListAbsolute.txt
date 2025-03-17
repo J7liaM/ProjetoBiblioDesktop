@@ -1,0 +1,9 @@
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\bin\Debug\Biblio.DAL.dll
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\bin\Debug\Biblio.DAL.pdb
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\bin\Debug\Biblio.DTO.dll
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\bin\Debug\Biblio.DTO.pdb
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\obj\Debug\Biblio.DAL.csproj.AssemblyReference.cache
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\obj\Debug\Biblio.DAL.csproj.CoreCompileInputs.cache
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\obj\Debug\Biblio.DAL.csproj.Up2Date
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\obj\Debug\Biblio.DAL.dll
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DAL\obj\Debug\Biblio.DAL.pdb

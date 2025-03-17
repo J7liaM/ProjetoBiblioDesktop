@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|c:\\users\\julim\\source\\repos\\projetobibliodesktop\\projetobibliodesktop\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|solutionrelative:projetobibliodesktop\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|c:\\users\\julim\\source\\repos\\projetobibliodesktop\\projetobibliodesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|solutionrelative:projetobibliodesktop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|c:\\users\\julim\\source\\repos\\projetobibliodesktop\\projetobibliodesktop\\frmlivrosrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|solutionrelative:projetobibliodesktop\\frmlivrosrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|c:\\users\\julim\\source\\repos\\projetobibliodesktop\\projetobibliodesktop\\frmlivrosrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DC3775D-60EB-4B06-A57E-5EF56623EF4E}|ProjetoBiblioDesktop\\ProjetoBiblioDesktop.csproj|solutionrelative:projetobibliodesktop\\frmlivrosrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioDesktop\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmUsuarios.cs",
+              "RelativeToolTip": "ProjetoBiblioDesktop\\frmUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:58:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioDesktop\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLogin.cs",
+              "RelativeToolTip": "ProjetoBiblioDesktop\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:58:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLivrosRequisicao.cs",
+              "DocumentMoniker": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "ToolTip": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "RelativeToolTip": "ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:58:13.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLivrosRequisicao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "RelativeDocumentMoniker": "ProjetoBiblioDesktop\\frmLivrosRequisicao.cs",
+              "ToolTip": "C:\\Users\\julim\\source\\repos\\ProjetoBiblioDesktop\\ProjetoBiblioDesktop\\frmLivrosRequisicao.cs [Design]",
+              "RelativeToolTip": "ProjetoBiblioDesktop\\frmLivrosRequisicao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:58:10.398Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

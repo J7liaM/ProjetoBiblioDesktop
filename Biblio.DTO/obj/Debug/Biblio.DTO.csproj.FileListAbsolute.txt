@@ -1,0 +1,6 @@
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\bin\Debug\Biblio.DTO.dll
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\bin\Debug\Biblio.DTO.pdb
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\obj\Debug\Biblio.DTO.csproj.AssemblyReference.cache
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\obj\Debug\Biblio.DTO.csproj.CoreCompileInputs.cache
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\obj\Debug\Biblio.DTO.dll
+C:\Users\julim\source\repos\ProjetoBiblioDesktop\Biblio.DTO\obj\Debug\Biblio.DTO.pdb

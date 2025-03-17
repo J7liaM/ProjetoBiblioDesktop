@@ -1,4 +1,4 @@
-# 📚 Biblio 2.0
+# 📚 Biblio 
 
 ## **🎯 Objetivo do Projeto**
 
